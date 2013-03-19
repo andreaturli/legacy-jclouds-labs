@@ -1,0 +1,29 @@
+{
+ "kind": "storage#buckets",
+ "items": [
+  {
+   "kind": "storage#bucket",
+   "id": "test-bucket-1",
+   "selfLink": "https://www.googleapis.com/storage/v1beta1/b/test-bucket-1",
+   "projectId": "477990493411",
+   "timeCreated": "2013-03-06T16:49:41.263Z",
+   "owner": {
+    "entity": "group-00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b3",
+    "entityId": "00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b3"
+   },
+   "location": "US"
+  },
+  {
+   "kind": "storage#bucket",
+   "id": "test-bucket-2",
+   "selfLink": "https://www.googleapis.com/storage/v1beta1/b/bucket-test-2",
+   "projectId": "477990493412",
+   "timeCreated": "2013-03-06T16:49:41.263Z",
+   "owner": {
+    "entity": "group-00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b2",
+    "entityId": "00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b2"
+   },
+   "location": "US"
+  }
+ ]
+}

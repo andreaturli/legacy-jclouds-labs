@@ -66,6 +66,7 @@
        <module>joyent-cloudapi</module>
        <module>joyentcloud</module>
        <module>google-compute-engine</module>
+        <module>google-cloud-storage</module>
        <module>iam</module>
        <module>aws-iam</module>
        <module>rds</module>

@@ -1,0 +1,32 @@
+{
+ "kind": "storage#bucketAccessControls",
+ "items": [
+  {
+   "kind": "storage#bucketAccessControl",
+   "id": "bucket-api-live-test-24/group-00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b3",
+   "selfLink": "https://www.googleapis.com/storage/v1beta1/b/bucket-api-live-test-24/acl/group-00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b3",
+   "bucket": "bucket-api-live-test-24",
+   "entity": "group-00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b3",
+   "role": "OWNER",
+   "entityId": "00b4903a97a979b8761ab4f612d1a56c02e2562692c1f7d196691f00d84970b3"
+  },
+  {
+   "kind": "storage#bucketAccessControl",
+   "id": "bucket-api-live-test-24/group-00b4903a970fd0a647b7983c5755d0ca9ffa268e476bcacad97bb90f2cd2c7cc",
+   "selfLink": "https://www.googleapis.com/storage/v1beta1/b/bucket-api-live-test-24/acl/group-00b4903a970fd0a647b7983c5755d0ca9ffa268e476bcacad97bb90f2cd2c7cc",
+   "bucket": "bucket-api-live-test-24",
+   "entity": "group-00b4903a970fd0a647b7983c5755d0ca9ffa268e476bcacad97bb90f2cd2c7cc",
+   "role": "OWNER",
+   "entityId": "00b4903a970fd0a647b7983c5755d0ca9ffa268e476bcacad97bb90f2cd2c7cc"
+  },
+  {
+   "kind": "storage#bucketAccessControl",
+   "id": "bucket-api-live-test-24/group-00b4903a9730f1b1ea29ae03903cf68ff9ced56a1a57eb1124e23045ba9c6c9e",
+   "selfLink": "https://www.googleapis.com/storage/v1beta1/b/bucket-api-live-test-24/acl/group-00b4903a9730f1b1ea29ae03903cf68ff9ced56a1a57eb1124e23045ba9c6c9e",
+   "bucket": "bucket-api-live-test-24",
+   "entity": "group-00b4903a9730f1b1ea29ae03903cf68ff9ced56a1a57eb1124e23045ba9c6c9e",
+   "role": "READER",
+   "entityId": "00b4903a9730f1b1ea29ae03903cf68ff9ced56a1a57eb1124e23045ba9c6c9e"
+  }
+ ]
+}
